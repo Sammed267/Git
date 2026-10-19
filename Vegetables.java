@@ -8,7 +8,7 @@ public class Vegetables
         Vegetables v=new Vegetables();
         v.name="Carrot";
         v.color="Orange";
-        v.price=30;
+        v.price=50;
         System.out.println("Vegetable Details:");
         System.out.println("Name: " + v.name);
         System.out.println("Color: " + v.color);
